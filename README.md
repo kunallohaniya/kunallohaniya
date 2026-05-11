@@ -5,10 +5,8 @@
 
 <br/>
 
-<!-- Typing SVG — wide enough so text never clips -->
-<a href="https://github.com/kunallohaniya">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🚀+Building+Scalable+Full-Stack+Systems;🤖+AI+%2F+LLM+Integration+Enthusiast;⚡+MERN+Stack+%7C+REST+APIs+%7C+RBAC+Expert;🔐+Turning+Ideas+into+Production-Ready+Apps;🛠️+10%2B+Production+APIs+%7C+Zero+Unauthorized+Access" alt="Typing SVG" />
-</a>
+<!-- Typing SVG via shields.io compatible service -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Building+Scalable+Full-Stack+Systems+%F0%9F%9A%80;AI+%2F+LLM+Integration+Enthusiast+%F0%9F%A4%96;MERN+Stack+%7C+REST+APIs+%7C+RBAC+Expert+%E2%9A%A1;Turning+Ideas+into+Production-Ready+Apps+%F0%9F%94%90;10%2B+Production+APIs+%7C+Zero+Unauthorized+Access+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -17,15 +15,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kunallohaniya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/kunallohaniya)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunal1912pr@gmail.com)
-
-<br/>
-
-<!-- Animated snake contribution graph (requires snake.yml GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -36,12 +25,12 @@
 ```ts
 const kunal = {
   role:              "Full-Stack Software Developer @ LEVITHAN Technologies",
-  location:          "Faridabad, India 🇮🇳",
-  education:         "MCA @ JCBUST YMCA (2024–2026)",
+  location:          "Faridabad, India",
+  education:         "MCA @ JCBUST YMCA (2024-2026)",
   focus:             ["MERN Stack", "AI/LLM Integration", "System Architecture"],
   currentlyBuilding: "GovernAI — an AI Compliance Platform",
   askMeAbout:        ["REST APIs", "RBAC", "React", "Node.js", "MongoDB", "AI Integration"],
-  funFact:           "I reduced manual audit time by ~60% with an LLM compliance engine 🚀",
+  funFact:           "Reduced manual audit time by ~60% with an LLM compliance engine",
 };
 ```
 
@@ -163,6 +152,45 @@ A centralized enterprise portal managing **15+ financial and regulatory categori
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunallohaniya&bg_color=1a1b27&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+> **Setup required:** Add `.github/workflows/snake.yml` to this repo and run it once from the Actions tab. After that it auto-generates every 12 hours.
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: kunallohaniya
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake-dark.svg"/>
+</picture>
 
 ---
 
