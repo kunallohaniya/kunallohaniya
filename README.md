@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Lohaniya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20System%20Design&descAlignY=60&descSize=18&descColor=a78bfa"/>
-
-<!-- Typing SVG -->
-<a href="https://github.com/kunallohaniya">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Systems;AI+%2F+LLM+Integration+Enthusiast;MERN+Stack+%7C+REST+APIs+%7C+RBAC;Turning+Ideas+into+Production-Ready+Apps" alt="Typing SVG" />
-</a>
+<!-- Animated Glowing Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a0533,60:302b63,100:24243e&height=280&section=header&text=Kunal%20Lohaniya&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%2F%20LLM%20Integration%20%E2%80%A2%20System%20Architecture&descAlignY=65&descSize=17&descColor=c4b5fd"/>
 
 <br/>
+
+<!-- Typing SVG — wide enough so text never clips -->
+<a href="https://github.com/kunallohaniya">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🚀+Building+Scalable+Full-Stack+Systems;🤖+AI+%2F+LLM+Integration+Enthusiast;⚡+MERN+Stack+%7C+REST+APIs+%7C+RBAC+Expert;🔐+Turning+Ideas+into+Production-Ready+Apps;🛠️+10%2B+Production+APIs+%7C+Zero+Unauthorized+Access" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-lohaniya)
@@ -18,7 +20,12 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kunallohaniya&color=a78bfa&style=flat-square&label=Profile+Views)
+<!-- Animated snake contribution graph (requires snake.yml GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kunallohaniya/kunallohaniya/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -28,13 +35,13 @@
 
 ```ts
 const kunal = {
-  role:       "Full-Stack Software Developer @ LEVITHAN Technologies",
-  location:   "Faridabad, India 🇮🇳",
-  education:  "MCA @ JCBUST YMCA (2024–2026)",
-  focus:      ["MERN Stack", "AI/LLM Integration", "System Architecture"],
+  role:              "Full-Stack Software Developer @ LEVITHAN Technologies",
+  location:          "Faridabad, India 🇮🇳",
+  education:         "MCA @ JCBUST YMCA (2024–2026)",
+  focus:             ["MERN Stack", "AI/LLM Integration", "System Architecture"],
   currentlyBuilding: "GovernAI — an AI Compliance Platform",
-  askMeAbout: ["REST APIs", "RBAC", "React", "Node.js", "MongoDB", "AI Integration"],
-  funFact:    "I reduced manual audit time by ~60% with an LLM compliance engine 🚀",
+  askMeAbout:        ["REST APIs", "RBAC", "React", "Node.js", "MongoDB", "AI Integration"],
+  funFact:           "I reduced manual audit time by ~60% with an LLM compliance engine 🚀",
 };
 ```
 
@@ -165,7 +172,7 @@ A centralized enterprise portal managing **15+ financial and regulatory categori
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kunallohaniya/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kunallohaniya/)
-[![Coding Ninjas](https://img.shields.io/badge/Code360-Profile-F0833A?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/kunallohaniya)
+[![Code360](https://img.shields.io/badge/Code360-Profile-F0833A?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/kunallohaniya)
 
 </div>
 
