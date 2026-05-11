@@ -20,23 +20,29 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```ts
-const kunal = {
-  role:              "Full-Stack Software Developer @ LEVITHAN Technologies",
-  location:          "Faridabad, India",
-  education:         "MCA @ JCBUST YMCA (2024-2026)",
-  focus:             ["MERN Stack", "AI/LLM Integration", "System Architecture"],
-  currentlyBuilding: "GovernAI — an AI Compliance Platform",
-  askMeAbout:        ["REST APIs", "RBAC", "React", "Node.js", "MongoDB", "AI Integration"],
-  funFact:           "Reduced manual audit time by ~60% with an LLM compliance engine",
-};
-```
+<h1 align="center"> Hi there, I'm Kunal ! </h1>
 
----
+ <b>About Me</b>
 
-## ⚡ Tech Stack
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
+     min-width="300px"
+     max-width="300px"
+     width="350px"
+     align="right">
+
+Full-Stack Software Developer @ LEVITHAN Technologies <br>
+Passionate about MERN Stack, AI/LLM Integration & System Architecture <br>
+Constantly building scalable and real-world software solutions <br>
+
+Worked on projects like: <br>
+• GovernAI — AI Compliance Platform <br>
+• LLM-based Audit Automation Engine <br>
+• RBAC & Secure REST API Systems <br>
+• AI Integrated Full-Stack Applications <br>
+
+## Tech Stack
 
 <div align="center">
 
@@ -76,49 +82,49 @@ const kunal = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🔐 GovernAI — AI Compliance Platform
+###  GovernAI — AI Compliance Platform
 > *React · Python · FastAPI · MongoDB · Groq API · Llama 3 · Mixtral*
 
 Built an end-to-end **AI-powered compliance engine** that automates security audits against **GDPR, DPDP 2025, ISO 27001, and NIST CSF 2.0**.
 
-- 🧠 LLM-assisted **PII tracking** with full Data Mapping module
-- ⚡ Intelligent caching + deterministic fallbacks for structured JSON output
-- 📋 Clause-specific remediation recommendations with auto cache invalidation
-- 🕐 **~60% reduction** in manual audit time
+-  LLM-assisted **PII tracking** with full Data Mapping module
+-  Intelligent caching + deterministic fallbacks for structured JSON output
+-  Clause-specific remediation recommendations with auto cache invalidation
+-  **~60% reduction** in manual audit time
 
 ---
 
-### 🏢 EasyConnect — B2B Marketplace Platform
+###  EasyConnect — B2B Marketplace Platform
 > *Next.js · Node.js · FastAPI · MongoDB · Redis · Elasticsearch · Socket.IO*
 
 A **microservices-inspired marketplace** supporting 6 distinct user roles with real-time collaboration.
 
-- 🔄 Real-time **Deal Rooms** via Socket.IO — 100+ concurrent sessions
-- 🤝 AI matchmaking with **sentence-transformer embeddings + cosine similarity**
-- 🔍 Full-text faceted search via **Elasticsearch** — ~50% faster product discovery
-- 🪪 Multi-step **KYC onboarding** + subscription payment flows
+-  Real-time **Deal Rooms** via Socket.IO — 100+ concurrent sessions
+-  AI matchmaking with **sentence-transformer embeddings + cosine similarity**
+-  Full-text faceted search via **Elasticsearch** — ~50% faster product discovery
+-  Multi-step **KYC onboarding** + subscription payment flows
 
 ---
 
-### 📂 ARCL — Document & Statistics Management Portal
+###  ARCL — Document & Statistics Management Portal
 > *React · Node.js · Express.js · MySQL · JWT*
 
 A centralized enterprise portal managing **15+ financial and regulatory categories** at scale.
 
-- 👥 Serving **200+ daily users** with RBAC (Super Admin & Executive roles)
-- 🔐 JWT + bcrypt + Helmet secured APIs
-- 🗂️ Dual-tiered deletion approval workflows + audit logging
-- 📊 xlsx-based bulk ingestion processing **10,000+ records** per upload — ~90% less manual entry
+-  Serving **200+ daily users** with RBAC (Super Admin & Executive roles)
+-  JWT + bcrypt + Helmet secured APIs
+-  Dual-tiered deletion approval workflows + audit logging
+-  xlsx-based bulk ingestion processing **10,000+ records** per upload — ~90% less manual entry
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -135,7 +141,7 @@ A centralized enterprise portal managing **15+ financial and regulatory categori
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -145,7 +151,7 @@ A centralized enterprise portal managing **15+ financial and regulatory categori
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
